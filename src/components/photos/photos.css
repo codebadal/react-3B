@@ -1,0 +1,16 @@
+.photo-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    height: 250px;
+    width: 250px;
+}
+.name{
+    background: white;
+    padding: 2px 5px;
+    margin-top: -25px;
+    margin-left: -150px;
+}
